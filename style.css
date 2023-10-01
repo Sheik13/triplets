@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  img {
+    border-radius: 25px;
+    background: purple;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    max-width: 100%;
+    height: auto;
+  }
