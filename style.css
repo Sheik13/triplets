@@ -1,9 +1,10 @@
 body {
-    background-color: lightblue;
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   h1 {
-    color: navy;
+    color: rgb(0, 1, 59);
     margin-left: 20px;
   }
   img {
@@ -12,6 +13,7 @@ body {
   }
   img {
     border-radius: 25px;
+    border-style: inset;
     background: purple;
     padding: 20px;
     width: 200px;
@@ -19,3 +21,5 @@ body {
     max-width: 100%;
     height: auto;
   }
+
+  
